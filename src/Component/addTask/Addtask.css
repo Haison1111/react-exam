@@ -1,0 +1,27 @@
+.container-input{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    gap: 20px;
+}
+
+input{
+    /* padding: 4px 36px; */
+    padding: 10px 4px;
+    width: 100%;
+    border-radius: 8px;
+    /* margin-top: 16px; */
+    margin: 0;
+  }
+  button{
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: none;
+    background: #3b75e0;
+    color: white;
+    /* margin-left: 12px; */
+    /* margin-bottom: -15px; */
+    margin: 0;
+  }
